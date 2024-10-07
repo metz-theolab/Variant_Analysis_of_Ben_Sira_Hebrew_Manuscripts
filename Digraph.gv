@@ -1,0 +1,55 @@
+digraph {
+	graph [rankdir=LR]
+	1 [label=start]
+	2 [label=end]
+	3 [label="כל"]
+	4 [label="אומר"]
+	5 [label="אמר"]
+	6 [label="אהבתי"]
+	7 [label="אוהב"]
+	8 [label="יאמר"]
+	9 [label="אהבתו"]
+	1 -> 3 [label="B, Bmg, C, D"]
+	3 -> 4 [label=B]
+	3 -> 7 [label="Bmg, C, D"]
+	4 -> 5 [label=B]
+	4 -> 6 [label="Bmg, D"]
+	5 -> 6 [label=B]
+	6 -> 2 [label="B, Bmg, D"]
+	7 -> 4 [label="Bmg, D"]
+	7 -> 8 [label=C]
+	8 -> 9 [label=C]
+	9 -> 2 [label=C]
+	5 -> 8 [label=0.86 style=dashed]
+	6 -> 9 [label=0.80 style=dashed]
+	{
+		graph [rank=same]
+		1
+	}
+	{
+		graph [rank=same]
+		3
+	}
+	{
+		graph [rank=same]
+		7
+	}
+	{
+		graph [rank=same]
+		4
+	}
+	{
+		graph [rank=same]
+		5
+		8
+	}
+	{
+		graph [rank=same]
+		6
+		9
+	}
+	{
+		graph [rank=same]
+		2
+	}
+}
