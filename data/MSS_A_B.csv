@@ -1,4 +1,4 @@
-Chapter ,Verse,Word,MS_A,MS_B,Categories,Subcategories_1,Subcategories_2,Category_names,Subcategory_names
+Chapter,Verse,Word,MS_A,MS_B,Categories,Subcategories_1,Subcategories_2,Category_names,Subcategory_names
 10,19,1,זרע,זרע,Same,,,Lexical,Synonym
 ,,2,נכבד,נקלה,Lexical,Anthonym,,Morphological,Anthonym
 ,,3,מה,מ̇ה̇,Same,,,Inversion,Metathesis
@@ -151,7 +151,7 @@ Chapter ,Verse,Word,MS_A,MS_B,Categories,Subcategories_1,Subcategories_2,Categor
 ,,11,אל,אל,Same,,,,
 ,,12,תהת̇ל,תהתל,Same,,,,
 ,,13,ואל,ואל,Same,,,,
-,,14,תקלס,תקלס,,,,,
+,,14,תקלס,תקלס,Same,,,,
 ,,15,במרירי,במרירי,Same,,,,
 ,,16,יום,יום,Same,,,,
 ,,17,כי,[כי,Unclassifiable,,,,
@@ -248,7 +248,7 @@ Chapter ,Verse,Word,MS_A,MS_B,Categories,Subcategories_1,Subcategories_2,Categor
 ,,18,אם,אם,Same,,,,
 ,,19,לא,לא,Same,,,,
 ,,20,תרוץ,תרו̊̊ץ,Same,,,,
-,,21,לא,לא,,,,,
+,,21,לא,לא,Same,,,,
 ,,22,תגיע,ת̇ג̊̊י̊̊ע,Same,,,,
 ,,23,ואם,[ו]אם,Unclassifiable,,,,
 ,,24,לא,לא,Same,,,,
@@ -510,7 +510,7 @@ Chapter ,Verse,Word,MS_A,MS_B,Categories,Subcategories_1,Subcategories_2,Categor
 ,,5,ועצֻמוֹתֿ,ועצומות,Morphological,Orthographical,,,
 ,,6,כאלה,כאלה,Same,,,,
 ,,7,שמעה,שמעה,Same,,,,
-,,8,אזני,אזני,,,,,
+,,8,אזני,אזני,Same,,,,
 ,6,1,בעדֿת,בעדת,Same,,,,
 ,,2,רשעים,רשע̇י̇ם̇,Same,,,,
 ,,3,יוקדת,רשפה,Lexical,Synonym,,,
